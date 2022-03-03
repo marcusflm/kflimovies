@@ -1,0 +1,21 @@
+body {
+    background: url('/img/casa_piscina.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+footer {
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 90%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 15%;
+}
